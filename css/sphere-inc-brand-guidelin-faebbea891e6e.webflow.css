@@ -432,11 +432,11 @@
 }
 
 .color-box._2 {
-  background-color: #13476a;
+  background-color: #2b388f;
 }
 
 .color-box._3 {
-  background-color: #263238;
+  background-color: #1d2148;
 }
 
 .color-box._4 {
@@ -446,7 +446,7 @@
 }
 
 .color-box._5 {
-  background-color: #2674a6;
+  background-color: #48a4ec;
 }
 
 .color-box._6 {
@@ -458,7 +458,7 @@
 }
 
 .color-box._0 {
-  background-color: #005b96;
+  background-color: #1b75bb;
 }
 
 .color-box._9 {
@@ -1222,7 +1222,7 @@
   padding-bottom: 32px;
 }
 
-@media (max-width: 991px) {
+@media screen and (max-width: 991px) {
   .global-logo {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -1376,7 +1376,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .global-logo.w--current {
     clear: none;
   }
@@ -1508,7 +1508,7 @@
   }
 }
 
-@media (max-width: 479px) {
+@media screen and (max-width: 479px) {
   .n-body-col {
     padding-bottom: 40px;
   }
